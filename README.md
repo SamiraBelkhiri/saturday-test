@@ -32,8 +32,8 @@ try to locate where you are, create a file, rename it and move it to another fol
   apt <!-- Advanced packaging tool. Allows to perfon installation of new software packages-->
 
   1. check if git is installed on your computer by using the command:
-      git <!-- if git is installed you will get a lot of explantion-->
-      git --version
+      git --verion <!-- if git is installed you will get a lot of explantion-->
+      
   
   ## Configure git
 
@@ -91,10 +91,10 @@ git push <!-- if this doesnt work you will have to specify which remote you want
   ### from git to github
 
   now we create a repository on the local computer.
-  create a folder woth your documents.
+  create a folder with your documents.
 
   command
-  cd (directory you want to want to turn into repository )
+  cd (directory you want to turn into repository )
   git init <!--turns the folder into git repository-->
   git status<!--it will tell you that you have untracked files-->
   
